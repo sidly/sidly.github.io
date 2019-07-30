@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://sidly.github.io/"/>
   <updated>2019-07-30T08:23:12.316Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://sidly.github.io/</id>
   
   <author>
     <name>sidly.ni</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/07/30/hello-world/"/>
-    <id>http://yoursite.com/2019/07/30/hello-world/</id>
+    <link href="https://sidly.github.io/2019/07/30/hello-world/"/>
+    <id>https://sidly.github.io/2019/07/30/hello-world/</id>
     <published>2019-07-30T08:23:12.315Z</published>
     <updated>2019-07-30T08:23:12.316Z</updated>
     
