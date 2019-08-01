@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sidly.github.io/categories/index.html</loc>
+    
+    <lastmod>2019-08-01T07:54:54.494Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sidly.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-08-01T07:54:39.809Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sidly.github.io/2019/07/30/hello-world/</loc>
     
     <lastmod>2019-07-30T08:23:12.316Z</lastmod>
